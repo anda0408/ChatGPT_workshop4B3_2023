@@ -37,7 +37,7 @@ Python basic.py
 ```
 ### 複数システムの実行
 ```bash
-Python multiSystem.py
+Python namedSystem.py
 ```
 
 ### Tool_callsの使い方
