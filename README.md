@@ -35,6 +35,10 @@ OpenAIのAPIを使用するためには、APIキーが必要です。取得し�
 ```bash
 Python basic.py
 ```
+### 複数システムの実行
+```bash
+Python multiSystem.py
+```
 
 ### Tool_callsの使い方
 ```bash
